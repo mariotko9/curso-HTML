@@ -2,13 +2,11 @@
 
 ## Blocos (Tags)
 
-Exemplo
-
-&ltp&gtParagrafo&lt/p&gt</br>
+<div><p>Paragrafo</p></div></br>
 Ocupa toda a tela\linha</br>
-DISPLAY = Block
+DISPLAY = Block</br>
 
-&ltspan&gtLinha de texto&lt/span&gt</br>
+<div><span>Linha de texto</span></div>
 Ocupa o tamanho do seu conteúdo</br>
 DISPLAY = Line
 
