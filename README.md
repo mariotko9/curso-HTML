@@ -4,21 +4,24 @@
 
 Exemplo
 
-<p>Paragrafo</p> = Ocupa toda a tela\linha
+<p>Paragrafo</p> 
+Ocupa toda a tela\linha
 DISPLAY = Block
 
-<span>Linha de texto</span> = Ocupa o tamanho do seu conteúdo
+<span>Linha de texto</span>
+Ocupa o tamanho do seu conteúdo
 DISPLAY = Line
 
 ## Estrutura Básica
 
-<!DOCTYPE html> = Especifica o tipo HTML 5
+<!DOCTYPE html> 
+Especifica o tipo HTML 5
 <html>
-    <head> = Informações do cabeçalho do site
-        
+    <head>
+        Informações do cabeçalho do site
     </head>
-    <body> = Infomações do corpo exibidada na página do site
-
+    <body>
+        Infomações do corpo exibidada na página do site
     </body>
 </html>
 
@@ -26,13 +29,13 @@ DISPLAY = Line
 
 Criação de caracteres para exibição na página (que o navegador entende)
 A a Z, 1 a 9, Á Ê Í Ó Ú
-<meta charset="/> = tag fecha de forma diferente das demais usando o /.
 
-Ao definir o tipo ASCII(<meta charset="ASCII" />) a paragrafo (Á Ê Í Ó Ú) ficou assim:
+<meta charset=""/>
+Tag fecha de forma diferente das demais usando o /.
 
-Ã ÃŠ Ã Ã“ Ãš
+Ao definir o tipo ASCII a paragrafo (Á Ê Í Ó Ú) ficou assim: Ã ÃŠ Ã Ã“ Ãš
 
-Para resolver utilizamos o tipo UTF-8 para enchergar todos os tipos de caracteres (<meta charset="UTF-8" />).
+Para resolver utilizamos o tipo UTF-8 para enchergar todos os tipos de caracteres **meta charset="UTF-8"**).
 
 # Comentário
 
@@ -42,7 +45,7 @@ Para resolver utilizamos o tipo UTF-8 para enchergar todos os tipos de caractere
 
 ## Headlings e Parágrafos
 
-´podemos utilizar ! para iniciar a criação de uma estrutura html.
+Podemos utilizar ! para iniciar a criação de uma estrutura básica do html.
 
 <!DOCTYPE html>
 <html lang="en">
@@ -73,5 +76,7 @@ Para Sobrescrito usar X<sup>2</sup>
 
 ## Citação e Endereço
 
-<blockquote cite:"url"></blockquote> Para fazer a citação de um site
-<address></address> Para criar um endereço
+<blockquote cite:"url"></blockquote> 
+Para fazer a citação de um site
+<address></address> 
+Para criar um endereço
