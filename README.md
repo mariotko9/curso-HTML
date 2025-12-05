@@ -49,8 +49,8 @@ Fica visível somente no código
 ## Headlings e Parágrafos
 
 Podemos utilizar **!** para iniciar a criação de uma estrutura básica do html.
-
-'<!DOCTYPE html>'
+<div>
+     '<!DOCTYPE html>'
 '<html lang="en">'
 '<head>'
     '<meta charset="UTF-8">'
@@ -60,7 +60,8 @@ Podemos utilizar **!** para iniciar a criação de uma estrutura básica do html
 '<body>'
     
 '</body>'
-'</html>'
+'</html>'  
+</div>
 
 As tags do tipo títulos '<h>' também ocupam toda a linha.</br>
 
