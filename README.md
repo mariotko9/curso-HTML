@@ -4,18 +4,18 @@
 
 Exemplo
 
-'<p>Paragrafo</p>'</br>
+<div><p>Paragrafo</p></div></br>
 Ocupa toda a tela\linha</br>
 DISPLAY = Block
 
-'<span>Linha de texto</span>'</br>
+<div><span>Linha de texto</span></div></br>
 Ocupa o tamanho do seu conteúdo</br>
 DISPLAY = Line
 
 ## Estrutura Básica
 
 Sepre manter a indentação (espaços) correta na formatação
-
+<div>
 '<!DOCTYPE html>'
 '<html>'
        '<head>'
@@ -25,6 +25,7 @@ Sepre manter a indentação (espaços) correta na formatação
     
        '</body>'
 '</html>'
+</div>
 
 # Charset
 
