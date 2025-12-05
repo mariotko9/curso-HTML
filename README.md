@@ -4,24 +4,23 @@
 
 Exemplo
 
-<p>Paragrafo</p> 
-Ocupa toda a tela\linha
+**<p>Paragrafo</p>** 
+Ocupa toda a tela\linha </br>
 DISPLAY = Block
 
-<span>Linha de texto</span>
-Ocupa o tamanho do seu conteúdo
+**<span>Linha de texto</span>**
+Ocupa o tamanho do seu conteúdo </br>
 DISPLAY = Line
 
 ## Estrutura Básica
 
 <!DOCTYPE html> 
-Especifica o tipo HTML 5
 <html>
     <head>
-        Informações do cabeçalho do site
+       
     </head>
     <body>
-        Infomações do corpo exibidada na página do site
+    
     </body>
 </html>
 
@@ -30,7 +29,7 @@ Especifica o tipo HTML 5
 Criação de caracteres para exibição na página (que o navegador entende)
 A a Z, 1 a 9, Á Ê Í Ó Ú
 
-<meta charset=""/>
+**<meta charset=""/>**
 Tag fecha de forma diferente das demais usando o /.
 
 Ao definir o tipo ASCII a paragrafo (Á Ê Í Ó Ú) ficou assim: Ã ÃŠ Ã Ã“ Ãš
@@ -39,7 +38,8 @@ Para resolver utilizamos o tipo UTF-8 para enchergar todos os tipos de caractere
 
 # Comentário
 
-<!-- Isso é um comentário--> = Fica visível somente no código
+**<!-- Isso é um comentário-->**
+Fica visível somente no código
 
 # 2 - TEXTO
 
