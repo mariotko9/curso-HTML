@@ -1,48 +1,54 @@
+<div> 
+       
 # 1 - INTRODUÇÃO
+
+Como o README utiliza como base comandos HTML será modificado os comandos ou inserido imagens.
 
 ## Blocos (Tags)
 
-Exemplo
+<p>Paragrafo</p>Ocupa toda a tela\linha</br>
+DISPLAY = Block</br>
 
-<p>Paragrafo</p> = Ocupa toda a tela\linha
-DISPLAY = Block
-
-<span>Linha de texto</span> = Ocupa o tamanho do seu conteúdo
-DISPLAY = Line
+<span>Linha de texto</span></br>
+Ocupa o tamanho do seu conteúdo</br>
+DISPLAY = Line</br>
 
 ## Estrutura Básica
 
-<!DOCTYPE html> = Especifica o tipo HTML 5
-<html>
-    <head> = Informações do cabeçalho do site
-        
-    </head>
-    <body> = Infomações do corpo exibidada na página do site
+Sepre manter a indentação (espaços) correta na formatação
 
-    </body>
+<!DOCTYPE html>
+<htm>
+       <head>
+              
+       </head>
+       
+       <body>
+       </body>
 </html>
 
 # Charset
 
 Criação de caracteres para exibição na página (que o navegador entende)
 A a Z, 1 a 9, Á Ê Í Ó Ú
-<meta charset="/> = tag fecha de forma diferente das demais usando o /.
 
-Ao definir o tipo ASCII(<meta charset="ASCII" />) a paragrafo (Á Ê Í Ó Ú) ficou assim:
+<meta charset=""/>
+Tag fecha de forma diferente das demais usando o /.
 
-Ã ÃŠ Ã Ã“ Ãš
+Ao definir o tipo ASCII a paragrafo (Á Ê Í Ó Ú) ficou assim: Ã ÃŠ Ã Ã“ Ãš
 
-Para resolver utilizamos o tipo UTF-8 para enchergar todos os tipos de caracteres (<meta charset="UTF-8" />).
+Para resolver utilizamos o tipo UTF-8 para enchergar todos os tipos de caracteres <meta charset="UTF-8"/>.
 
 # Comentário
 
-<!-- Isso é um comentário--> = Fica visível somente no código
+<!-- Isso é um comentário-->
+Fica visível somente no código
 
 # 2 - TEXTO
 
 ## Headlings e Parágrafos
 
-´podemos utilizar ! para iniciar a criação de uma estrutura html.
+Podemos utilizar **!** para iniciar a criação de uma estrutura básica do html.
 
 <!DOCTYPE html>
 <html lang="en">
@@ -54,24 +60,29 @@ Para resolver utilizamos o tipo UTF-8 para enchergar todos os tipos de caractere
 <body>
     
 </body>
-</html>
+</html> 
 
-As tags do tipo títulos <h> também ocupam toda a linha.
+As tags do tipo títulos <h> também ocupam toda a linha.</br>
 
 Utilizar a tag <br/> para quebra de linha.
 
 ## Formatação de Texto
 
-<b></b> Para negrito ou <strong></strong>
-<i></i> Para italico ou <em></em>
-<ins></ins> Para sublinhar o texto
-<del></del> Este para texto cortado
-<mark></mark> Para marcar o texto
-<small></small> Para diminuir o texto
-Para Subscrito usar H<sub>2</sub>0
-Para Sobrescrito usar X<sup>2</sup>
+<b></b> Para negrito ou <strong></strong></br>
+<i></i> Para italico ou <em></em></br>
+<ins></ins> Para sublinhar o texto</br>
+<del></del> Este para texto cortado</br>
+<mark></mark> Para marcar o texto</br>
+<small></small> Para diminuir o texto</br>
+Para Subscrito usar H<sub>2</sub>0</br>
+Para Sobrescrito usar X<sup>2</sup></br>
 
 ## Citação e Endereço
 
-<blockquote cite:"url"></blockquote> Para fazer a citação de um site
-<address></address> Para criar um endereço
+<blockquote cite:"url"></blockquote></br> 
+Para fazer a citação de um site</br>
+<address></address></br> 
+Para criar um endereço
+
+</div>
+
