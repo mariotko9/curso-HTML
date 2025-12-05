@@ -50,17 +50,17 @@ Fica visível somente no código
 
 Podemos utilizar **!** para iniciar a criação de uma estrutura básica do html.
 <div>
-     '<!DOCTYPE html>'
-'<html lang="en">'
-'<head>'
-    '<meta charset="UTF-8">'
-    '<meta name="viewport" content="width=device-width, initial-scale=1.0">'
-    '<title>Document</title>'
-'</head>'
-'<body>'
+     <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
     
-'</body>'
-'</html>'  
+</body>
+</html> 
 </div>
 
 As tags do tipo títulos '<h>' também ocupam toda a linha.</br>
