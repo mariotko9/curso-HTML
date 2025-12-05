@@ -1,19 +1,13 @@
-
 # 3 - MIDIA
 
 ## Links
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-<a href="url ou html"></a> = Para referenciar outra pagina.html ou URL
-<a href="https://google.com" title="Ir para o Google" target="_blank">Google</a> = Aqui usamos o title para exibir um título no hiperlink e o target para abrir em outra aba do navegador.
 
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Para referenciar outra pagina.html ou URL utilizamos a TAG **a href="url  ou pagina.html**
+Podemos usar um **title="Ir para o Google"** no hiperlink e o **target="_blank"** para abrir em outra aba do navegador.
 
 ## Âncora
 
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Para criarmos os links de âncoras (link na mesma página como um índice) usamos:
 
-<a href="paragrafo-1"></a> e com um id no subtitulos nas refências <h2 id="paragrafo-1">Lorem ipsum dolor </h2>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**a href="paragrafo-1"** com um **id** no subtitulos para linkar com a refência **id="paragrafo-1"**
