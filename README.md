@@ -1,5 +1,7 @@
 # 3 - MIDIA
 
+Como o README utiliza como base comandos HTML será modificado os comandos ou inserido imagens.
+
 ## Links
 
 
