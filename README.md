@@ -16,12 +16,12 @@ DISPLAY = Line
 
 <!DOCTYPE html> 
 <html>
-    <head>
+<head>
        
-    </head>
-    <body>
+</head>
+<body>
     
-    </body>
+</body>
 </html>
 
 # Charset
